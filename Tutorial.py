@@ -100,6 +100,7 @@
     "- You are now ready to explore more advanced MicroPython projects!"
    ]
   }
+  
  ],
  "metadata": {
   "kernelspec": {
